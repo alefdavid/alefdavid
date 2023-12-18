@@ -1,4 +1,4 @@
-<h1 align="left">Olá, me chamo Alef!:facepunch:</h1>
+<h1 align="left">Olá, me chamo Alef!</h1>
 </a></p>
 
 <div align="center">
